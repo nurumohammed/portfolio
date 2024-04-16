@@ -16,6 +16,7 @@ const Home = () => {
  const handleEmail = () => {
    window.open("https://mail.google.com", "_blank");
  };
+ // ghfnv
   return (
     <section>
       <div className="flex items-center justify-center h-screen text-4xl bg-gray-100 rounded-lg m-2">
