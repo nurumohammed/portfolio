@@ -22,7 +22,7 @@ const Home = () => {
       <div className="flex items-center justify-center h-screen text-4xl bg-gray-100 rounded-lg m-2">
         <div className="flex flex-col items-center">
           <img
-            src="assets/nuru.jpg"
+            src="/assets/nuru.jpg"
             alt="Your Image"
             className=" w-56 h-56 sm:w-64 sm:h-64 p-4 mt-8"
           />
